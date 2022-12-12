@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm SoCuul!
 
-<!--
-**SoCuul/SoCuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer based out of Canada. I love coding random projects, or creating utilities to make my life easier.
 
-Here are some ideas to get you started:
+## 📩 Links
+```diff
++ Discord: SoCuul#0001
++ Site: socuul.dev
++ Twitter: @SoVeryCuul
++ Reddit: u/emojimasteryt
++ Twitch: verycuul
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+[![Tech Stack](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,express,mongodb,git,nginx,netlify,vscode,vite,cloudflare,discord)](https://skillicons.dev)
+
+## 📊 Stats
+![SoCuul's GitHub stats](https://github-readme-stats.vercel.app/api?username=socuul&show_icons=true&theme=gotham)
