@@ -9,6 +9,7 @@ I'm a full-stack developer based out of Canada. I love coding random projects, o
 + Twitter: @SoVeryCuul
 + Reddit: u/emojimasteryt
 + Twitch: verycuul
++ Email: support@socuul.dev
 ```
 
 ## 💻 Tech Stack
