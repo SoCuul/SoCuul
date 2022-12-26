@@ -1,6 +1,6 @@
 # Hi, I'm SoCuul!
 
-I'm a full-stack developer based out of Canada. I love coding random projects, or creating utilities to make my life easier.
+I'm a full-stack developer based out of Canada. I am expecially fluent in node.js backend tools. I love coding random projects, or creating utilities to make my life easier.
 
 ## 📩 Links
 ```diff
