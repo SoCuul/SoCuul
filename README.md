@@ -10,7 +10,7 @@ I'm a full-stack developer based out of Canada. I am expecially fluent in node.j
 + Reddit: u/emojimasteryt
 + Twitch: verycuul
 + Email: support@socuul.dev
-+ API Status: https://bit.ly/socuulstatus
++ API Status: https://socuul.dev/status
 ```
 
 ## 💻 Tech Stack
