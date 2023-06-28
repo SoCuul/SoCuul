@@ -14,7 +14,7 @@ I'm a full-stack developer based out of Canada. I am expecially fluent in node.j
 ```
 
 ## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=js,html,css,nodejs,vue,express,mongodb,git,nginx,netlify,vscode,vite,cloudflare,discord)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ts,js,html,css,nodejs,git,docker,vue,nuxt,express,bash,nginx,vercel,cloudflare,vite,github,vscode,discord&perline=50)](https://skillicons.dev)
 
 ## 📊 Stats
 ![SoCuul's GitHub stats](https://github-readme-stats.vercel.app/api?username=socuul&show_icons=true&theme=gotham)
