@@ -4,7 +4,7 @@ I'm a full-stack developer based out of Canada. I am expecially fluent in node.j
 
 ## 📩 Links
 ```diff
-+ Discord: SoCuul#0001
++ Discord: @socuul
 + Site: socuul.dev
 + Twitter: @SoVeryCuul
 + Reddit: u/emojimasteryt
