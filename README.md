@@ -1,6 +1,6 @@
 # Hi, I'm SoCuul!
 
-I'm a Canadian developer as well as student. I am mostly fluent in the node.js ecosystem, using TypeScript. I love coding random projects, or creating utilities to make my life easier.
+I'm a Canadian developer, who's currently a student. I am most fluent in the node.js ecosystem, with the use of TypeScript. I love coding random projects, or creating utilities to make my life easier.
 
 As of recently, I've been tinkering in other languages such as Objective-C.
 
