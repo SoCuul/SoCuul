@@ -2,7 +2,7 @@
 
 I'm a full-stack developer based out of Canada. I am expecially fluent in node.js backend tools. I love coding random projects, or creating utilities to make my life easier.
 
-As of recently, I've been learning other languages such as Objective-C.
+As of recently, I've been tinkering in other languages such as Objective-C.
 
 ## 📩 Links
 ```diff
