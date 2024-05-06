@@ -1,6 +1,6 @@
 # Hi, I'm SoCuul!
 
-I'm a full-stack developer based out of Canada. I am expecially fluent in node.js backend tools. I love coding random projects, or creating utilities to make my life easier.
+I'm a full-stack developer based out of Canada. I am mostly fluent in node.js ecosystem, using TypeScript. I love coding random projects, or creating utilities to make my life easier.
 
 As of recently, I've been tinkering in other languages such as Objective-C.
 
