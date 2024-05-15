@@ -6,11 +6,11 @@ As of recently, I've been tinkering in other languages such as Objective-C.
 
 ## 📩 Links
 ```diff
-+ Discord: @socuul
 + Site: socuul.dev
 + Twitter: @SoVeryCuul
 + Reddit: u/emojimasteryt
 + Twitch: verycuul
++ Discord (personal, not for support): @socuul
 + Email: support@socuul.dev
 + API Status: https://socuul.dev/status
 ```
