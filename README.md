@@ -20,3 +20,6 @@ As of recently, I've been tinkering in other languages such as Objective-C.
 
 ## 📊 Stats
 ![SoCuul's GitHub stats](https://github-readme-stats.vercel.app/api?username=socuul&show_icons=true&theme=gotham)
+
+## 💸 Donate
+If you'd like to support my work, feel free to [buy me a coffee](https://ko-fi.com/socuul)!
