@@ -12,7 +12,6 @@ As of recently, I've been tinkering in other languages such as Objective-C.
 + Twitch: verycuul
 + Discord (personal, not for support): @socuul
 + Email: support@socuul.dev
-+ API Status: https://socuul.dev/status
 ```
 
 ## 💻 Tech Stack
