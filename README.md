@@ -1,10 +1,10 @@
 # Hi, I'm SoCuul!
 
-I'm a Canadian developer, who's currently a student. I am most fluent in the node.js ecosystem, with the use of TypeScript. I love coding random projects, or creating utilities to make my life easier.
+I'm a Canadian developer, who's currently a student. I spend most of my time tinkering with Darwin-based OSes, and the software that runs on them.
 
-As of recently, I've been tinkering in other languages such as Objective-C.
+Enjoys working with Swift, Objective-C, TypeScript, and a little bit of everything else.
 
-## 📩 Links
+## Links
 ```diff
 + Site: socuul.dev
 + Twitter: @SoVeryCuul
@@ -14,11 +14,22 @@ As of recently, I've been tinkering in other languages such as Objective-C.
 + Email: support@socuul.dev
 ```
 
-## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,git,docker,vue,nuxt,express,bash,nginx,vercel,cloudflare,vite,github,vscode,discord)](https://skillicons.dev)
+## Stack
 
-## 📊 Stats
-![SoCuul's GitHub stats](https://github-readme-stats.vercel.app/api?username=socuul&show_icons=true&theme=gotham)
+### Languages
+[![Languages](https://skills.syvixor.com/api/icons?perline=15&i=swift,objectivec,typescript,javascript,python,bash,powershell)]()
 
-## 💸 Donate
+### Frameworks
+- AppKit
+- UIKit
+- SwiftUI
+- Vue.js/Nuxt
+
+### Operating Systems
+[![Operating Systems](https://skills.syvixor.com/api/icons?perline=15&i=macos,windows,ubuntu)]()
+
+## Stats
+![Stats](./profile/stats.svg)
+
+## Donate
 If you'd like to support my work, feel free to [buy me a coffee](https://ko-fi.com/socuul)!
