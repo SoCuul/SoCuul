@@ -9,7 +9,6 @@ Enjoys working with Swift, Objective-C, TypeScript, and a little bit of everythi
 + Site: socuul.dev
 + Twitter: @SoVeryCuul
 + Reddit: u/emojimasteryt
-+ Twitch: verycuul
 + Discord (personal, not for support): @socuul
 + Email: support@socuul.dev
 ```
