@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">SoCuul's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 1032, Total Commits  (last year) : 276, Total PRs: 60, Total Issues: 196, Contributed to (last year): 29</desc>
+        <desc id="descId">Total Stars Earned: 1033, Total Commits  (last year) : 276, Total PRs: 60, Total Issues: 196, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 73.59659076106655;
+        stroke-dashoffset: 73.57675780932493;
       }
     }
   
